@@ -1,0 +1,12 @@
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\bin\Debug\AutomationTestSuite.exe.config
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\bin\Debug\AutomationTestSuite.exe
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\bin\Debug\AutomationTestSuite.pdb
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.csprojResolveAssemblyReference.cache
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.Form1.resources
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.Properties.Resources.resources
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.TestCase.resources
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.csproj.GenerateResource.Cache
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.csproj.CoreCompileInputs.cache
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.exe
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.pdb
+c:\users\dolphin\source\repos\AutomationTestSuite\AutomationTestSuite\obj\Debug\AutomationTestSuite.ActionForm.resources
